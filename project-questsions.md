@@ -37,3 +37,16 @@ Taken from **Making Things Happen** by Scott Berkun, Published by O'Reilly Media
 * How can those ideas be explored? What prototypes, sketches, or alternatives need to be investigated to help us understand the potential for the project?
 * What core ideas and concepts should the project use to express information to users?
 
+## Interdisciplinary Questions
+* Why does this project exist? Why are we the right people to do it? Why does it need to be done now?
+* What are the three or four useful groupings we can use to discuss the different kinds of customers we have? (For example, for a word processor, it might be students, professionals, and home users. For an IT database, it might be sales, receptionists, and executives.) How do their needs and behaviors differ?
+* What demographic information can help us understand who these customers are? (Age, income, type of company, profession, education, other products owned or web sites used, etc.)
+* Which activities is each user group using our product for? How does this correspond to what they purchased the product for? How does this correspond to how we marketed the product? What problems do they have in using the product to satisfy their needs?
+* Who are our potential new customers, and what features, scenarios, or types of products would we need to provide to make them customers? (What are the demographic profiles of these new customers?)
+* Do we have the technology and expertise to create something that satisfies these needs and problems? (For each identified need, answers of yes, maybe, and no can often be sufficient, at least as a first pass.)
+* Can we build the technology and obtain the expertise to create something that satisfies these needs and problems? (Yes, maybe, no.)
+* Are there significant opportunities in a new product or line of products? Or are the needs tied directly to the current product or line of products?
+* Are there viable business models for using our expertise and technology to solve these identified problems or needs? (Will profits outweigh costs on a predictable timeline?)
+* What are the market timelines for the next release or product launch? Which windows of opportunity make the most sense to target?
+* What are competitors in this marketplace doing? What do we think their strategies are, and how might we compete with them?
+
