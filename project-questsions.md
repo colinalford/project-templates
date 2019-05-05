@@ -18,20 +18,22 @@ Taken from **Making Things Happen** by Scott Berkun, Published by O'Reilly Media
 
 ## Technology Perspective
 
-What does it (the project) need to do?
+* What does it (the project) need to do?
+* How will it work? How will each of the components in it work?
+* How will we build it? How will we verify that it works as it’s supposed to?
+* How reliable, efficient, extensible, and performant are the current systems or ones we are capable of building? Is there a gap between this and what the project requires?
+* What technologies or architectures are readily available to us? Will we bet on any new technologies that will be available soon but are not available yet?
+* What engineering processes and approaches are appropriate for this team and this project?
+* What applicable knowledge and expertise do our people have? What won’t they be working on to work on this project?
+* How will we fill gaps in expertise? (Train/hire/learn/ignore and hope the gaps magically go away.)
+* How much time will it take to build, at what level of quality?
 
-How will it work? How will each of the components in it work?
+## Customer Perspective
+* What do people actually do? (Not what we think they do or what they say they do.)
+* What problems do they have trying to do these things? Where do they get stuck, confused, or frustrated?
+* What do they need or want to do but aren’t able to do at all?
+* Where are the specific opportunities to make things easier, safer, faster, or more reliable for them?
+* What design ideas for how to improve how the thing should work—in terms of what people actually do—have the most potential for improving the customer experience?
+* How can those ideas be explored? What prototypes, sketches, or alternatives need to be investigated to help us understand the potential for the project?
+* What core ideas and concepts should the project use to express information to users?
 
-How will we build it? How will we verify that it works as it’s supposed to?
-
-How reliable, efficient, extensible, and performant are the current systems or ones we are capable of building? Is there a gap between this and what the project requires?
-
-What technologies or architectures are readily available to us? Will we bet on any new technologies that will be available soon but are not available yet?
-
-What engineering processes and approaches are appropriate for this team and this project?
-
-What applicable knowledge and expertise do our people have? What won’t they be working on to work on this project?
-
-How will we fill gaps in expertise? (Train/hire/learn/ignore and hope the gaps magically go away.)
-
-How much time will it take to build, at what level of quality?
